@@ -95,10 +95,10 @@ Pod::Spec.new do |spec|
 
   spec.source_files  = "Source/*.{h,swift}"
 
-  spec.dependency       "Alamofire', '~> 4.9.1"
-  spec.dependency       "DZNEmptyDataSet', '~> 1.8.1"
-  spec.dependency       "KVOController','~> 1.2.0"
-  spec.dependency       "MJRefresh','~> 3.4.3"
+  spec.dependency       "Alamofire"
+  spec.dependency       "DZNEmptyDataSet"
+  spec.dependency       "KVOController"
+  spec.dependency       "MJRefresh"
 
   spec.public_header_files = "Source/ATRefresh_Swift-Bridging-Header.h"
 
