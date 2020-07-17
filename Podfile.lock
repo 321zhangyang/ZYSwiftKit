@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.2.1)
+  - DZNEmptyDataSet (1.8.1)
+  - KVOController (1.2.0)
+  - MJRefresh (3.4.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - DZNEmptyDataSet
+  - KVOController
+  - MJRefresh
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - DZNEmptyDataSet
+    - KVOController
+    - MJRefresh
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  KVOController: d72ace34afea42468329623b3379ab3cd1d286b6
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+
+PODFILE CHECKSUM: e103d2932982068b61f1ef6934d8a16063a2fa67
+
+COCOAPODS: 1.9.1
