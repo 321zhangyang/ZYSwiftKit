@@ -83,7 +83,7 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/321zhangyang/ZYSwiftKit.git", :tag => spec.version}
 
   spec.swift_version    = '5.0'
-  spec.platform         = :ios, '9.0'
+  spec.platform         = :ios, '10.0'
   spec.requires_arc     = true
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
